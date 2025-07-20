@@ -12,8 +12,10 @@ How to use:
 7. Done. The video will show in `/output/` folder
 
 ---------
+
 Able keys version form 1.0 to 3.4
 Able subtitles version form 1.0 to 3.3
+
 ---------
 
 ## Credits 
