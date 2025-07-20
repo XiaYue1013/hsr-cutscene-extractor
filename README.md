@@ -1,0 +1,2 @@
+# hsr-cutscene-extractor
+
